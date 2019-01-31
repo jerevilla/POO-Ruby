@@ -5,7 +5,7 @@ puts 'Hola Mundo'
 puts "Entro y saludo: 'Hola'"
 puts 'Entro y saludo: \'Hola\''
 puts
-#Ejemplo de entero
+#Ejemplo de ejercicio entero 
 entero = 1980
 puts entero
 #Interpolación de variables dentro de una cadena
@@ -22,4 +22,7 @@ puts resta = 3 - 6
 puts multi = 9 * 4
 puts divi_entera = 9 / 4 
 puts divi_float = 9.0 / 4
+#se obtiene el resto de la división
 puts resto = 9 % 4 
+
+puts "Estos es un cambio para git"

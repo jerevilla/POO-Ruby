@@ -25,4 +25,5 @@ puts divi_float = 9.0 / 4
 #se obtiene el resto de la división
 puts resto = 9 % 4 
 
-puts "Estos es un cambio para git"
+puts "Estos es un cambio para"
+puts ""
